@@ -169,6 +169,8 @@ npm test -- interest.service
 
 ## API Documentation
 
+http://localhost:3000/api/docs
+
 ### Task A: Wallet Transfer
 
 **Endpoint**: `POST /wallet/transfer`
