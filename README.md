@@ -391,15 +391,8 @@ Solution: Check Redis is running - redis-cli ping
 Solution: npm run build && npm test
 ```
 
-## Future Improvements
-
-1. **Event Sourcing**: Implement event log for complete transaction history
-2. **Webhooks**: Notify external systems on transaction completion
-3. **Multi-currency**: Support currency conversion in transfers
-4. **GraphQL API**: Add GraphQL layer for flexible querying
-5. **Distributed Tracing**: Add OpenTelemetry for microservices observability
-
 ## Author
+Bashir Alausa 
 
 **Candidate Submission**  
 Date: February 5, 2024
