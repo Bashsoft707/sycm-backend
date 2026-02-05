@@ -164,7 +164,7 @@ npm test -- interest.service
 
 Interactive API documentation is available locally:
 
-[Swagger API Docs](http://localhost:3000/api/d)
+[Swagger API Docs](http://localhost:3000/api/docs)
 
 Open the above link in your browser to explore all endpoints, request/response schemas, and try out the API directly.
 
