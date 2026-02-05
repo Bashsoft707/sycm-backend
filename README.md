@@ -160,16 +160,14 @@ npm test -- wallet.service
 npm test -- interest.service
 ```
 
-### Expected Coverage
-
-- Statements: > 85%
-- Branches: > 80%
-- Functions: > 85%
-- Lines: > 85%
-
 ## API Documentation
 
-http://localhost:3000/api/docs
+Interactive API documentation is available locally:
+
+[Swagger API Docs](http://localhost:3000/api/d)
+
+Open the above link in your browser to explore all endpoints, request/response schemas, and try out the API directly.
+
 
 ### Task A: Wallet Transfer
 
